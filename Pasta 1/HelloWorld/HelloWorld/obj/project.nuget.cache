@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1HaNbyfqrPXqGdfv0tc6XWQtcYEhB7CFQaOmivgFS50BaDrHbD9UXdzP/F/HWFZucIzzqSLoPQ1kuIqeS/0jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamic\\source\\repos\\Projeto_HelloWorldCSharp\\Pasta 1\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
